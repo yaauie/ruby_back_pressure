@@ -6,6 +6,13 @@ This project is designed to be zero-dependency and API-stable at `1.x`, making i
 
 It is licensed under the [Apache License, Version 2.0](./LICENSE-APACHE2.md), which grants you the freedom to use and modify it and limits the liability of the contributors.
 
+## Status
+ - [![Build Status](https://travis-ci.org/yaauie/ruby_back_pressure.svg?branch=master)](https://travis-ci.org/yaauie/ruby_back_pressure)
+ - [![Apache License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.rubydoc.info/github/yaauie/ruby_back_pressure/master)
+ - ![API: Stable](https://img.shields.io/badge/API-stable-green.svg)
+ - ![Runtime Dependencies: Zero](https://img.shields.io/badge/runtime%20dependencies-0-green.svg)
+
+
 ## Installation
 
 ### Using Bundler
@@ -88,8 +95,6 @@ This project follows the [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
  - MAJOR: will always be 1.x, since this project is API-stable by design.
  - MINOR: new backward-compatible features and abstractions will be available in minor releases.
  - PATCH: fixes to existing features will be made available in patch-level releases.
-
-_CAVEAT: Although the APIs are stable, project version will sit at 0.9.x until CI and Documentation Generation are validated in order to allow 1.0.0 to be a fully-validated release._
 
 ## Code of Conduct
 
