@@ -1,0 +1,13 @@
+---
+sudo: false
+language: ruby
+cache: bundler
+
+matrix:
+  include:
+    - jdk: openjdk8
+      rvm: jruby-9.1.17.0
+    - jdk: openjdk11
+      rvm: jruby-9.2.7.0
+    - rvm: 2.6
+before_install: gem install bundler
