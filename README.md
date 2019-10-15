@@ -98,4 +98,4 @@ This project follows the [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ## Code of Conduct
 
-Everyone interacting in the BackPressure project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/back_pressure/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the BackPressure project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/yaauie/ruby_back_pressure/blob/master/CODE_OF_CONDUCT.md).
